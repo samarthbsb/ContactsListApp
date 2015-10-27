@@ -1,0 +1,26 @@
+{
+"cricket_live_score": {
+"current_score": 60,
+"team_image1": "AFG",
+"team_image2": "WI",
+"current_wicket": 4,
+"is_superbanner": "0",
+"match_result_str": "",
+"required_run_rate": "",
+"previous_wicket": "",
+"lastupdated": "2015-10-27T17:33:49+05:30",
+"matchfile": "slwi10222015179631",
+"current_run_rate": 2.8095238095238093,
+"previous_total_over": "",
+"current_status_str": "Click for scores, photos & more",
+"match_status": 1,
+"bg_image": "bg_cricket_supersumart.png",
+"current_over": "21.0",
+"current_batting_team": "WI",
+"start_time": "10:00, October 27",
+"current_bowling_team": "AFG",
+"previous_score": ""
+},
+"name": "cricket_live_score",
+"ctime": "2015-10-27T12:24:03+05:30"
+}
